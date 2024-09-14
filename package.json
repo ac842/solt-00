@@ -5,7 +5,7 @@
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.7",
-    "craco": "^7.1.0",
+    "craco": "^0.0.3",
     "gh-pages": "^6.0.0",
     "gsap": "^3.12.2",
     "i18next": "^23.5.1",
