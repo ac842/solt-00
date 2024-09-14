@@ -8038,6 +8038,11 @@ ini@^1.3.5:
   resolved "https://registry.npmjs.org/ini/-/ini-1.3.8.tgz"
   integrity sha512-JV/yugV2uzW5iMRSiZAyDtQd+nxtUnjeLt0acNdw98kKLrvuRVyB80tsREOE7yvGVgalhZ6RNXCmEHkUKBKxew==
 
+instead@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/instead/-/instead-1.0.3.tgz#e27bcc9b977e9c3fbf6880d28451ac1afe7542b2"
+  integrity sha512-7EUe8+ZmvERjdLwrEc1/CdErN8n8XYdF/uI+n8aLbs6Uf/wyqUXyFrCQ8HYADBFaz4+IqGiPVSTInpkMwqrXuw==
+
 internal-slot@^1.0.3:
   version "1.0.3"
   resolved "https://registry.npmjs.org/internal-slot/-/internal-slot-1.0.3.tgz"
